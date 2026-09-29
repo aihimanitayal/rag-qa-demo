@@ -1,0 +1,33 @@
+Getting Started
+
+To create an account, visit the sign-up page and provide a valid email address.
+A verification link is sent immediately and expires after 24 hours. If you
+don't receive it, check your spam folder before requesting a new one.
+
+Billing
+
+Subscriptions are billed monthly in advance. You can upgrade your plan at any
+time and the difference is prorated automatically. Downgrades take effect at
+the start of the next billing cycle, not immediately.
+
+Refunds are issued only within the first 14 days of a new subscription, and
+only for annual plans. Monthly plans are non-refundable but can be cancelled
+at any time with no further charges.
+
+API Access
+
+API keys are available on the Pro plan and above. Each key is rate-limited to
+1000 requests per minute. Exceeding this limit returns a 429 status code, and
+the limit resets every 60 seconds.
+
+Data Export
+
+You can export all your data as a CSV or JSON file from the account settings
+page at any time. Large exports (over 100,000 records) are processed
+asynchronously and emailed to you as a download link within a few hours.
+
+Support
+
+Support is available via email for all plans, with a typical response time of
+24 to 48 hours. Priority live chat support is available exclusively on the
+Enterprise plan.
